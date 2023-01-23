@@ -1,0 +1,15 @@
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\bin\Debug\net6.0\les8-seminar.exe
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\bin\Debug\net6.0\les8-seminar.deps.json
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\bin\Debug\net6.0\les8-seminar.runtimeconfig.json
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\bin\Debug\net6.0\les8-seminar.dll
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\bin\Debug\net6.0\les8-seminar.pdb
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.csproj.AssemblyReference.cache
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.AssemblyInfoInputs.cache
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.AssemblyInfo.cs
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.csproj.CoreCompileInputs.cache
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.dll
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\refint\les8-seminar.dll
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.pdb
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\les8-seminar.genruntimeconfig.cache
+C:\Users\Катерина\Desktop\TestGit\les3\C#\les1-C#\les8-seminar\obj\Debug\net6.0\ref\les8-seminar.dll
